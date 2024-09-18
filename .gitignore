@@ -1,7 +1,7 @@
 *.log
 *.json
 *.py
-!bot.py
+!blum.py
 *.html
 *.txt
 !data.txt
